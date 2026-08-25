@@ -1,7 +1,7 @@
 - 首次安装后请重启设备生效
 - 如 BL 状态仍被检测到，请确认 yosteebl 子模块已启用# TEEManager 更新日志
 
-## v1.2.2-TEEManager (2026-08-25)
+## v1.2.4-TEEManager (2026-08-26)
 
 ### 新增
 - 模块在线更新支持（updateJson 指向 GitHub 仓库 TEEManager.json）
